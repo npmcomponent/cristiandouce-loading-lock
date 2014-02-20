@@ -2,8 +2,8 @@
  * Module dependencies.
  */
 
-var spin = require('spin');
-var classes = require('classes');
+var spin = require('component-spin');
+var classes = require('component-classes');
 
 /**
  * Module expose.
